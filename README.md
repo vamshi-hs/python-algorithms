@@ -2,7 +2,7 @@
 
 ## Search
 - [x] Linear search
-- [ ] Binary search
+- [x] Binary search
 
 ## String algorithms
 ### String Matching
