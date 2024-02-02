@@ -7,5 +7,5 @@
 ## String algorithms
 ### String Matching
 - [ ] Naive
-- [ ] KMP
 - [ ] Boyer moore
+- [ ] KMP
