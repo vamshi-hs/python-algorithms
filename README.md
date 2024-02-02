@@ -1,7 +1,7 @@
 # DSA in python
 
 ## Search
-- [ ] Linear search
+- [x] Linear search
 - [ ] Binary search
 
 ## String algorithms
