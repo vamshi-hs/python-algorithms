@@ -6,6 +6,6 @@
 
 ## String algorithms
 ### String Matching
-- [ ] Naive
+- [x] Naive
 - [ ] Boyer moore
 - [ ] KMP
