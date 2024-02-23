@@ -6,7 +6,6 @@ def linear_search(elements,key):
         index += 1
     return -1
 
-#print(linear_search([1,2,3],2))
 def test_lsearch():
     assert linear_search([1,2,3,4,5,6],1) == 0, "Should be 0"
     assert linear_search([1,2,3,4,5,6],6) == 5, "Should be 5"
