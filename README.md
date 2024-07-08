@@ -14,3 +14,7 @@
 - [x] Naive
 - [ ] Boyer moore
 - [ ] KMP
+
+## Trees
+- [x] Binary Search Tree
+- [x] Red black tree
