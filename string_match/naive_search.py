@@ -22,7 +22,6 @@ def naive_search(haystack,needle):
         i += 1
     return -1
          
-
 def test_search_naive():
     assert naive_search("abcab","bc") == 1, "Should be 1"
     assert naive_search("aaaaab","aab") == 3, "Should be 3"
