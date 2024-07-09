@@ -38,7 +38,6 @@ class BST:
         else:
             return self._search(root.right,key)
 
-
     def in_order_traversal(self,root):
         if root:
             self.in_order_traversal(root.left)
