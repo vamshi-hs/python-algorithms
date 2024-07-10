@@ -18,3 +18,4 @@
 ## Trees
 - [x] Binary Search Tree
 - [x] Red black tree
+- [x] AVL tree
