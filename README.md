@@ -20,6 +20,7 @@
 - [x] Binary Search Tree
 - [x] Red black tree
 - [x] AVL tree
+- [x] Heap
 
 ## Graphs
 - [x] DFS
