@@ -8,6 +8,7 @@
 - [x] Bubble sort
 - [x] Insertion sort
 - [x] Selection sort
+- [x] Merge Sort
 
 ## String algorithms
 ### String Matching
